@@ -69,6 +69,12 @@ This project demonstrates a real-world IAM implementation using Microsoft Entra 
   *Enforce MFA for external access
   
   *Restrict access for contractors
+
+  Policy 1: All users require MFA when accessing company apps
+
+  Policy 2: Admins always require MFA from any location
+
+  Policy 3: Temporary users blocked after contract ends
   
   <img width="1914" height="789" alt="image" src="https://github.com/user-attachments/assets/2cc8ea40-38d7-4a87-be58-aeecdf5caee1" />
 
